@@ -1,5 +1,26 @@
 [
   {
+    "id": "6bbf9b1f90851900e9db4d0acce8c9e8",
+    "titulo": "Volvo entrega lote de caminhões FH B100 Flex para rodar com 100% de biodiesel",
+    "link": "https://www.autodata.com.br/noticias/2026/07/01/volvo-entrega-lote-de-caminhoes-fh-b100-flex-para-rodar-com-100-de-biodiesel/107641/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-07-01T21:07:43.950475"
+  },
+  {
+    "id": "d980dfae58f230b666803f3fb0147b33",
+    "titulo": "Como a tecnologia embarcada protege a frota de caminhões contra combustível de má qualidade",
+    "link": "https://frotanews.com.br/feira-dos-cegonheiros-tecnologia-embarcada/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-07-01T21:07:44.511858"
+  },
+  {
+    "id": "20f78aa16b970bd98e36a9661f619183",
+    "titulo": "3.Argentina zera carga tributária para exportar veículos; veja como isso afeta o Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/argentina-zera-carga-tributaria-para-exportar-veiculos-veja-como-isso-afeta-o-brasil/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-07-01T21:07:45.563437"
+  },
+  {
     "id": "78be2a85995a3000242e07170e99bd43",
     "titulo": "Como a Inteligência Artificial vem transformando o setor de logística, por MXP Transportes",
     "link": "https://frotanews.com.br/inteligencia-artificial-na-logistica-mxp-transportes/",
