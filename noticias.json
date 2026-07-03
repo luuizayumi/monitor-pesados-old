@@ -1,5 +1,33 @@
 [
   {
+    "id": "c877b446e2e2ba9a2a41f7185d7e6e59",
+    "titulo": "DAF inicia vendas controladas de caminhões XF preparados para operar com B100",
+    "link": "https://www.autodata.com.br/mobility/2026/07/03/daf-inicia-vendas-controladas-de-caminhoes-xf-preparados-para-operar-com-b100/107716/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-07-03T18:15:22.983457"
+  },
+  {
+    "id": "05d00248b7b977bc56787c8d36d7cd3d",
+    "titulo": "TransJordano avança no Corredor Verde com compra 100 caminhões a biometano 6×4",
+    "link": "https://frotanews.com.br/transjordano-diretoria-esg-joyce-bessa/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-07-03T18:15:23.388614"
+  },
+  {
+    "id": "9d7bae35dd215fe9d0ff49a7a1a279ec",
+    "titulo": "Veja quais foram os caminhões mais vendidos do Brasil no 1º semestre de 2026Número de emplacamentos de caminhões cresceu quase 15% de maio para junto e setor começa a sentir os efeitos do programa Move Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/veja-quais-foram-os-caminhoes-mais-vendidos-do-brasil-no-1-semestre-de-2026/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-07-03T18:15:23.869072"
+  },
+  {
+    "id": "15dbb4de5bebaf8ed1640cfe96dd150b",
+    "titulo": "Por R$ 1,3 milhão, caminhão mais potente do Brasil atrai clientela especial",
+    "link": "https://www.estadao.com.br/jornal-do-carro/por-mais-de-r-13-milhao-caminhao-mais-potente-do-brasil-atrai-clientela-especial/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-07-03T18:15:23.869086"
+  },
+  {
     "id": "626971043c6745dba3a7203c9627c22d",
     "titulo": "Mercado de caminhões seminovos cresce 40,3% e atrai expansão da Localiza para o Centro-Oeste",
     "link": "https://frotanews.com.br/localiza-expande-venda-seminovos-centro-oeste/",
