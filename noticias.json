@@ -1,5 +1,19 @@
 [
   {
+    "id": "17c352472e20930f61e76bdee60de6b6",
+    "titulo": "1.Caminhão brasileiro tem mais poder computacional que o módulo da Nasa que foi à Lua",
+    "link": "https://www.estadao.com.br/jornal-do-carro/caminhao-brasileiro-tem-mais-poder-computacional-que-o-modulo-da-nasa-que-foi-a-lua/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-07-08T09:27:47.669863"
+  },
+  {
+    "id": "af0304308ff5560a7e03ab6ab7d58f1d",
+    "titulo": "5.Por R$ 1,3 milhão, caminhão mais potente do Brasil atrai clientela especial",
+    "link": "https://www.estadao.com.br/jornal-do-carro/por-mais-de-r-13-milhao-caminhao-mais-potente-do-brasil-atrai-clientela-especial/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-07-08T09:27:47.669872"
+  },
+  {
     "id": "639fd5e573771570a7af4399ce77c391",
     "titulo": "4.Uber e Tesla lançam programa para acelerar adoção de caminhões elétricos nos EUA",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/uber-e-tesla-lancam-programa-para-acelerar-adocao-de-caminhoes-eletricos-nos-eua/",
