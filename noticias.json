@@ -1,5 +1,26 @@
 [
   {
+    "id": "c0a14ca113a542d098746cfaaf780794",
+    "titulo": "Venda de caminhões cresce 19% em julho, mas acumulado segue em queda",
+    "link": "https://www.autodata.com.br/noticias/2026/08/04/venda-de-caminhoes-cresce-19-em-julho-mas-acumulado-segue-em-queda/131715/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-08-04T21:15:04.750782"
+  },
+  {
+    "id": "116b12d549a864edf8191f96564813f9",
+    "titulo": "Mercado de ônibus avança 4% em julho com fôlego do Move Brasil",
+    "link": "https://www.autodata.com.br/noticias/2026/08/04/mercado-de-onibus-avanca-42-em-julho-com-folego-do-move-brasil/131722/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-08-04T21:15:04.750799"
+  },
+  {
+    "id": "ce1b249c03c3da5edadf95b91bbe6b1c",
+    "titulo": "5.“Chegou a hora dos caminhões” diz diretor da BYD, que vai apostar no mercado de pesados no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/chegou-a-hora-dos-caminhoes-diz-diretor-da-byd-que-vai-apostar-no-mercado-de-pesados-no-brasil/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-08-04T21:15:06.103534"
+  },
+  {
     "id": "42b60713aa23ad5bcfd73962340ca95f",
     "titulo": "vendasPesados: BNDES aprova R$ 20 bilhões em crédito para renovação de frota03/08/2026",
     "link": "https://automotivebusiness.com.br/noticias/bndes-aprova-20-bilhoes-credito-renovar-frota-de-caminhoes-e-onibus",
