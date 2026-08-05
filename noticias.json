@@ -1,5 +1,33 @@
 [
   {
+    "id": "0337d18aa46d541dcd2c5040a6297658",
+    "titulo": "Mercado de caminhões 2026: 410 unidades separam Mercedes-Benz e VW de um empate",
+    "link": "https://frotanews.com.br/caminhoes-mais-vendidos-2026/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-08-05T16:44:38.151268"
+  },
+  {
+    "id": "d00b636b5e7fbfd00e6671ce7442fed0",
+    "titulo": "“Chegou a hora dos caminhões” diz diretor da BYD, que vai apostar no mercado de pesados no BrasilFabricante vai participar da Fenatran, maior feira de caminhões da América Latina, e já planeja concessionária para veículos comerciais em São Paulo",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/chegou-a-hora-dos-caminhoes-diz-diretor-da-byd-que-vai-apostar-no-mercado-de-pesados-no-brasil/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-08-05T16:44:39.135828"
+  },
+  {
+    "id": "20901e52e9adcb50df77568d61935284",
+    "titulo": "Como o airbag de cortina protege os caminhoneiros em 7 mil tombamentos anuais",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/como-o-airbag-de-cortina-protege-os-caminhoneiros-em-7-mil-tombamentos-anuais/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-08-05T16:44:39.135840"
+  },
+  {
+    "id": "2ed1be70bc56e785d1612df663cc772e",
+    "titulo": "Como funciona o VW Constellation 26.280, o caminhão ‘movido a lixo’ da Volkswagen",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-comeca-a-vender-caminhoes-movidos-a-lixo/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-08-05T16:44:39.135844"
+  },
+  {
     "id": "c775e8dbe2349148c1bf2e35dd6f7135",
     "titulo": "3.“Chegou a hora dos caminhões” diz diretor da BYD, que vai apostar no mercado de pesados no Brasil",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/chegou-a-hora-dos-caminhoes-diz-diretor-da-byd-que-vai-apostar-no-mercado-de-pesados-no-brasil/",
