@@ -1,5 +1,19 @@
 [
   {
+    "id": "a8c8f5123aaec466e9949c11c5c89bcf",
+    "titulo": "3.Volkswagen Caminhões e Ônibus lança dois novos elétricos e fala em concorrência desleal com chineses",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/volkswagen-caminhoes-e-onibus-lanca-dois-novos-eletricos-e-fala-em-concorrencia-desleal-com-chineses/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-08-15T16:28:37.193320"
+  },
+  {
+    "id": "bacd082daea405133c2f6dcfc553c11f",
+    "titulo": "4.Uber, taxista e caminhoneiro vão parar de pagar pedágio? Entenda",
+    "link": "https://www.estadao.com.br/jornal-do-carro/uber-taxista-e-caminhoneiro-vao-parar-de-pagar-pedagio-entenda/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-08-15T16:28:37.193336"
+  },
+  {
     "id": "b9628bc37b628bbdea7fd83cfc9962dd",
     "titulo": "3.Scania terá caminhão autônomo sem cabine no Brasil em 2023",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhao-autonomo-nivel-4-scania/",
