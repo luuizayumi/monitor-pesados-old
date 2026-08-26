@@ -1,5 +1,19 @@
 [
   {
+    "id": "0b5c566506b44a74b51cb555b5fb884b",
+    "titulo": "Por que os caminhões grandes não podem rodar no Centro Expandido de SP?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/por-que-os-caminhoes-grandes-nao-podem-rodar-no-centro-expandido-de-sp/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-08-26T20:39:45.822737"
+  },
+  {
+    "id": "bf8f14f3e4a35fc2d84f62a45db61fd5",
+    "titulo": "Tesla confirma o caminhão elétrico Semi para brigar com Mercedes-Benz, Scania e Volvo na Europa",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/tesla-confirma-o-caminhao-eletrico-semi-para-brigar-com-mercedes-benz-scania-e-volvo-na-europa/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-08-26T20:39:45.822751"
+  },
+  {
     "id": "0f7baad4d2f16db92a3ebf6366f1c236",
     "titulo": "Caminhão betoneira: Parceria entre Bennter e DAF otimiza frota de transporte de concreto e argamassa no RS",
     "link": "https://frotanews.com.br/bennter-daf-betoneira-concreto/",
