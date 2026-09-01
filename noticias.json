@@ -1,5 +1,26 @@
 [
   {
+    "id": "15dcb63ce391ad1406e9816f3a004673",
+    "titulo": "ZF PowerLine leva conforto de automóveis aos caminhões e ônibus de 13 t a 23 toneladas",
+    "link": "https://www.autodata.com.br/mobility/2026/09/01/zf-powerline-leva-conforto-de-automoveis-aos-caminhoes-e-onibus-de-13-t-a-23-toneladas/133522/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-09-01T16:51:26.699567"
+  },
+  {
+    "id": "d03c11e3dedfcc2d3444b8ee64f25eb1",
+    "titulo": "Frota conectada, dados desconectados é o novo desafio da gestão de frotas no Brasil",
+    "link": "https://frotanews.com.br/artigo-frota-conectada/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-01T16:51:29.489637"
+  },
+  {
+    "id": "8201044b69059e5b09bcbf19f22f1c35",
+    "titulo": "1.Aceleramos (e vimos nascer) o caminhão mais potente fabricado no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/aceleramos-e-vimos-nascer-o-caminhao-mais-potente-fabricado-no-brasil/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-01T16:51:29.870597"
+  },
+  {
     "id": "c5af3af9d2de64d6c76d3a5ba3a7bb68",
     "titulo": "Guia de Veículos Elétricos de Carga para Última Milha",
     "link": "https://frotanews.com.br/veiculos-eletricos-ultima-milha/",
