@@ -1,5 +1,19 @@
 [
   {
+    "id": "5d960165fb0c10b8b756925786521cd5",
+    "titulo": "1.Quais são cinco caminhões mais caros à venda no Brasil?",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/quais-sao-cinco-caminhoes-mais-caros-a-venda-no-brasil/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-02T23:08:55.736662"
+  },
+  {
+    "id": "ae3513bd99c5c755a5729a67d1938376",
+    "titulo": "4.Aceleramos (e vimos nascer) o caminhão mais potente fabricado no Brasil",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/aceleramos-e-vimos-nascer-o-caminhao-mais-potente-fabricado-no-brasil/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-02T23:08:55.736675"
+  },
+  {
     "id": "8764667d3ee8ebd06eb23a2505efe003",
     "titulo": "Queda nas vendas de caminhões chega a 5% até agosto",
     "link": "https://www.autodata.com.br/noticias/2026/09/02/queda-nas-vendas-de-caminhoes-chega-a-5-ate-agosto/134646/",
