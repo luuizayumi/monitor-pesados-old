@@ -1,5 +1,40 @@
 [
   {
+    "id": "ac17a65bf809098e5aa0a82aca5ad094",
+    "titulo": "Produção de caminhões cresce 17% em agosto, mas acumula queda de 9%",
+    "link": "https://www.autodata.com.br/noticias/2026/09/08/producao-de-caminhoes-cresce-17-em-agosto-mas-acumula-queda-de-9/134930/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-09-08T17:21:49.376803"
+  },
+  {
+    "id": "625947421b84cd500ef0f04c34aa5a8c",
+    "titulo": "Caminhões e ônibus evoluíram. A oficina também precisa evoluir.",
+    "link": "https://frotanews.com.br/caminhoes-e-onibus-evoluiram/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-08T17:21:49.982567"
+  },
+  {
+    "id": "34e0782fa31dc80a1087e3c1f0192116",
+    "titulo": "Farizon lança F3E e amplia presença na logística elétrica urbana com chassi cabine de 3.5 t de PBT",
+    "link": "https://frotanews.com.br/farizon-frotas-eletricas-urbanas/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-08T17:21:49.982582"
+  },
+  {
+    "id": "b48ce8176d527982fa21e6c94073976a",
+    "titulo": "Rio de Janeiro concentra maior prejuízo nacional com roubo de cargas no 1º semestre de 2026",
+    "link": "https://frotanews.com.br/ultimas-noticias-roubo-de-cargas/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-08T17:21:49.982586"
+  },
+  {
+    "id": "07f72b9ab0884fc7f8bcb6d188bb1535",
+    "titulo": "Lalamove amplia demanda e frota de carga no primeiro semestre de 2026",
+    "link": "https://frotanews.com.br/aplicativos-startup-lalamove/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-08T17:21:49.982589"
+  },
+  {
     "id": "0aefbd840891e036029a1cec18521623",
     "titulo": "Mercedes-Benz vira o jogo e assume liderança entre caminhões; VW 11.180 segue soberano como o mais vendido do Brasil",
     "link": "https://frotanews.com.br/caminhoes-mais-vendidos-2026/",
