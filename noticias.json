@@ -1,5 +1,61 @@
 [
   {
+    "id": "62f13bb94c86c5357db765da27f6322f",
+    "titulo": "Iveco reforça pós-venda com Centro de Distribuição próprio diante da chegada de chinesas",
+    "link": "https://www.autodata.com.br/noticias/2026/09/14/iveco-reforca-pos-venda-com-centro-de-distribuicao-proprio-diante-da-chegada-de-chinesas/135383/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-09-14T19:07:11.715774"
+  },
+  {
+    "id": "50553667106d42510b5f0ea0ed23ee4e",
+    "titulo": "Volvo conquista o título de “Caminhão Internacional do Ano 2027” com sua nova gama elétrica",
+    "link": "https://frotanews.com.br/caminhao-internacional-do-ano-2027/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-14T19:07:12.305325"
+  },
+  {
+    "id": "bbba3abb262bd1d195fb466825d6c306",
+    "titulo": "Disponibilidade de frota: o indicador que começa na oficina e termina na operação.",
+    "link": "https://frotanews.com.br/disponibilidade-de-frota/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-14T19:07:12.305350"
+  },
+  {
+    "id": "da3a74b23889106b42b3c71471f351d1",
+    "titulo": "Euro NCAP divulga novas classificações de segurança para caminhões de longa distância na abertura da IAA Transportation 2026",
+    "link": "https://frotanews.com.br/euro-ncap-anuncia-o-maior-teste-independente-de-seguranca-em-caminhoes/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-14T19:07:12.305353"
+  },
+  {
+    "id": "a2a70ba6582df0eefc5ea96b3b6ef465",
+    "titulo": "3.Pode isso? Conheça cinco regras de trânsito que caminhões são obrigados a obedecer",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/pode-isso-conheca-cinco-regras-de-transito-que-caminhoes-sao-obrigados-a-obedecer/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-14T19:07:12.816179"
+  },
+  {
+    "id": "6e592d3425cc1691d76595886061c122",
+    "titulo": "5.Scania quer vender 10 mil caminhões na China no 1º ano de produção local",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/scania-quer-vender-10-mil-caminhoes-na-china-no-1o-ano-de-producao-local/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-14T19:07:12.816191"
+  },
+  {
+    "id": "8b607754f80d7d882af047475340ba34",
+    "titulo": "BYD assume liderança no ano em emplacamentos de ônibus elétricos",
+    "link": "https://www.balcaoautomotivo.com/2026/09/14/byd-assume-lideranca-no-ano-em-emplacamentos-de-onibus-eletricos/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-09-14T19:07:15.693814"
+  },
+  {
+    "id": "45501e99961022e0daaa61557e272773",
+    "titulo": "Barra de direção desgastada coloca em risco a segurança do caminhão",
+    "link": "https://www.balcaoautomotivo.com/2026/09/14/barra-de-direcao-desgastada-coloca-em-risco-a-seguranca-do-caminhao-2/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-09-14T19:07:15.693827"
+  },
+  {
     "id": "283815ef72459739161ea581429bf2a7",
     "titulo": "Apesar do mercado, Mercedes-Benz dobra aposta nos caminhões elétricos",
     "link": "https://automotivebusiness.com.br/montadoras/apesar-do-mercado-mercedes-benz-dobra-aposta-nos-caminhoes-eletricos",
