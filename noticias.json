@@ -1,5 +1,75 @@
 [
   {
+    "id": "cf0c5ee55cc9d0f1e940c34c2d826086",
+    "titulo": "BYD estreia na Europa com caminhão de 1 mil cv e cinco estrelas no Euro NCap",
+    "link": "https://www.autodata.com.br/mobility/2026/09/22/byd-estreia-na-europa-com-caminhao-de-1-mil-cv-e-cinco-estrelas-no-euro-ncap/135701/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-09-22T17:33:49.483847"
+  },
+  {
+    "id": "c4033bc1b3890549c6d098fc562cf40d",
+    "titulo": "Dados inéditos mostram como o mercado de canetas emagrecedoras mudou a logística farmacêutica",
+    "link": "https://frotanews.com.br/canetas-emagrecedoras-impactos-logistica-farmaceutica/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-22T17:33:49.983340"
+  },
+  {
+    "id": "0e99be6ca6ef382b560e19c47a3345fa",
+    "titulo": "Iveco Bus apresenta microônibus elétrico eFLEXY na FIAA 2026",
+    "link": "https://frotanews.com.br/comparativo-autonomia-onibus-eletrico/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-22T17:33:49.983352"
+  },
+  {
+    "id": "2ac5af20c2a7d60bd384cd8eff7dcf3e",
+    "titulo": "Fortalecimento de cooperativas pode mudar a realidade dos caminhoneiros autônomos",
+    "link": "https://frotanews.com.br/cooperativas-e-associacoes-de-caminhoneiros/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-22T17:33:49.983355"
+  },
+  {
+    "id": "ee23d437d1fb87421e423d018b72b061",
+    "titulo": "Reforma tributária vai obrigar transportadora a fiscalizar seus próprios fornecedores",
+    "link": "https://frotanews.com.br/reforma-tributaria-obriga-transportadora-a-fiscalizar-fornecedores/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-22T17:33:49.983358"
+  },
+  {
+    "id": "aae16f034a2e798d72ff601d5893858e",
+    "titulo": "Dirigimos o caminhão da Mercedes-Benz que não muda de marcha e emite vapor de águaCaminhão a hidrogênio da marca alemã vira realidade e entra em produção. Veículo tem pedido de 100 unidades da operadora logística alemã Dachser depois de quatro anos em desenvolvimento",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dirigimos-o-caminhao-da-mercedes-benz-que-nao-muda-de-marcha-e-emite-vapor-de-agua/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-22T17:33:50.629808"
+  },
+  {
+    "id": "3f8a2331d8252e713ad19d5158cf5933",
+    "titulo": "Sem petróleo: conheça cinco caminhões brasileiros movidos a energias alternativas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/sem-petroleo-conheca-cinco-caminhoes-brasileiros-movidos-a-energias-alternativas/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-22T17:33:50.629820"
+  },
+  {
+    "id": "74af7aed0c2b31845500ab764b485061",
+    "titulo": "3.Dirigimos o caminhão da Mercedes-Benz que não muda de marcha e emite vapor de água",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/dirigimos-o-caminhao-da-mercedes-benz-que-nao-muda-de-marcha-e-emite-vapor-de-agua/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-22T17:33:50.629824"
+  },
+  {
+    "id": "a90af077e431b0b8465ebef85cd262db",
+    "titulo": "Fras-le lança revestimento de embreagem para caminhões Scania Série 5",
+    "link": "https://www.balcaoautomotivo.com/2026/09/22/fras-le-lanca-revestimento-de-embreagem-para-caminhoes-scania-serie-5/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-09-22T17:33:53.442574"
+  },
+  {
+    "id": "4f3d232b396c918c0b312533d66fb5b2",
+    "titulo": "Bombas de água Pierburg oferecem 76% de cobertura da frota de veículos",
+    "link": "https://www.balcaoautomotivo.com/2026/09/22/bombas-de-agua-pierburg-oferecem-76-de-cobertura-da-frota-de-veiculos/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-09-22T17:33:53.442586"
+  },
+  {
     "id": "8d18bb80d0a363e72d177685cba7e5bd",
     "titulo": "4.Dicas de sobrevivência para dirigir com o caminhão ao lado",
     "link": "https://www.estadao.com.br/jornal-do-carro/paula-toco/dicas-de-sobrevivencia-para-dirigir-com-o-caminhao-ao-lado/",
