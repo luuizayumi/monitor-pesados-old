@@ -1,5 +1,40 @@
 [
   {
+    "id": "a09c8e4b3e781a6d342ad91fcc9cbcac",
+    "titulo": "Recarga rápida (DC) quase triplica em 12 meses e já responde por 38% da rede",
+    "link": "https://abve.org.br/recarga-rapida-dc-quase-triplica-em-12-meses-e-ja-responde-por-38-da-rede-brasileira/",
+    "fonte": "ABVE",
+    "data_coleta": "2026-09-28T21:41:43.320131"
+  },
+  {
+    "id": "48ccb2f006a1be2bc4285dc61122d035",
+    "titulo": "especialMercedes 70 anos: os caminhões que marcaram as sete décadas no país28/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-os-caminhoes-que-marcaram-as-sete-decadas-no-pais",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-09-28T21:41:43.741861"
+  },
+  {
+    "id": "e0e9d3512586e1d32b228e0ba4c059a8",
+    "titulo": "especialMercedes 70 anos: os caminhões que marcaram as sete décadas no país28 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/mercedes-70-anos-os-caminhoes-que-marcaram-as-sete-decadas-no-pais",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-09-28T21:41:43.741873"
+  },
+  {
+    "id": "afe5ba908a857b04aa5f3b4e483c0b79",
+    "titulo": "Como a Foton investe no Brasil para encarar gigantes globais de caminhões",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/como-a-foton-investe-no-brasil-para-encarar-gigantes-globais-de-caminhoes/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-28T21:41:45.904964"
+  },
+  {
+    "id": "5fb7b288e745083c282e8342b00a805c",
+    "titulo": "3.História e nostalgia: revisite os cinco primeiros caminhões fabricados em terras brasileiras",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/historia-e-nostalgia-revisite-os-cinco-primeiros-caminhoes-fabricados-em-terras-brasileiras/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-09-28T21:41:45.904976"
+  },
+  {
     "id": "10538b7d3efce1e781e3bf3b8244e596",
     "titulo": "Mercedes 70 anos: os caminhões que marcaram as sete décadas no país",
     "link": "https://automotivebusiness.com.br/mercado/mercedes-70-anos-os-caminhoes-que-marcaram-as-sete-decadas-no-pais",
