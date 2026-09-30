@@ -1,5 +1,54 @@
 [
   {
+    "id": "1b2b8cbc6e403ddac8df2ea9523a14b1",
+    "titulo": "Volkswagen vendeu 472 caminhões e ônibus ao governo federal",
+    "link": "https://automotivebusiness.com.br/mercado/volkswagen-caminhoes-e-onibus-fornece-472-veiculos-ao-governo",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-09-30T21:19:13.733800"
+  },
+  {
+    "id": "3eb437d7033a1e984634d601843d0bd3",
+    "titulo": "MercadoVolkswagen vendeu 472 caminhões e ônibus ao governo federal30/09/2026",
+    "link": "https://automotivebusiness.com.br/noticias/volkswagen-caminhoes-e-onibus-fornece-472-veiculos-ao-governo",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-09-30T21:19:13.733820"
+  },
+  {
+    "id": "40a1aebe78455c7462c65e7bd61ed78e",
+    "titulo": "MercadoVolkswagen vendeu 472 caminhões e ônibus ao governo federal30 set 2026",
+    "link": "https://automotivebusiness.com.br/noticias/volkswagen-caminhoes-e-onibus-fornece-472-veiculos-ao-governo",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-09-30T21:19:13.733824"
+  },
+  {
+    "id": "22f6235a77125beb3109d69fe4e4008b",
+    "titulo": "São Paulo chega a 2 mil ônibus elétricos, mas ainda não cumpre a meta de 2024",
+    "link": "https://www.autodata.com.br/noticias/2026/09/30/sao-paulo-chega-a-2-mil-onibus-eletricos-mas-ainda-nao-cumpre-a-meta-de-2024/136638/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-09-30T21:19:15.475755"
+  },
+  {
+    "id": "1c24e068b45f59568b88ceb977550f8b",
+    "titulo": "Henkel amplia frota sustentável com três carretas movidas a biometano",
+    "link": "https://frotanews.com.br/frota-sustentavel-henkel/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-30T21:19:16.314449"
+  },
+  {
+    "id": "d4fe878ee729d2f76485fd7e56853427",
+    "titulo": "São Paulo chega a 2.009 ônibus elétricos; Eletra responde por 43% e BYD, por 26% da frota",
+    "link": "https://frotanews.com.br/frota-onibus-eletrico-sao-paulo-byd/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-30T21:19:16.314463"
+  },
+  {
+    "id": "ff690226c4e9d88e74cfc1ee14f121dc",
+    "titulo": "FedEx encomenda 131 caminhões da DAF para operações em três países",
+    "link": "https://frotanews.com.br/caminhoes-daf-fedex/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-09-30T21:19:16.314466"
+  },
+  {
     "id": "dcb7d227b4d56c45d6c9e57795d62ea3",
     "titulo": "5.História e nostalgia: revisite os cinco primeiros caminhões fabricados em terras brasileiras",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/historia-e-nostalgia-revisite-os-cinco-primeiros-caminhoes-fabricados-em-terras-brasileiras/",
