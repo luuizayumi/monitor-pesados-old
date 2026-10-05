@@ -1,5 +1,26 @@
 [
   {
+    "id": "550e56a36b0ee70c36ead89c2e5a1dae",
+    "titulo": "Zhongtong começa a produzir ônibus elétricos no Brasil em 2028",
+    "link": "https://www.autodata.com.br/noticias/2026/10/05/zhongtong-comeca-a-produzir-onibus-eletricos-no-brasil-em-2028/136998/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-10-05T22:23:20.989747"
+  },
+  {
+    "id": "8461a94fc4d04a3071fb01a3f8f6f0eb",
+    "titulo": "Vendas de caminhões reduzem ritmo de queda para 4% no ano",
+    "link": "https://www.autodata.com.br/noticias/2026/10/05/vendas-de-caminhoes-reduzem-ritmo-de-queda-para-4-no-ano/136941/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-10-05T22:23:20.989764"
+  },
+  {
+    "id": "48b30215ee34db1b4c2a3056221e935d",
+    "titulo": "5.Os 10 caminhões pesados mais vendidos no primeiro semestre",
+    "link": "https://www.estadao.com.br/web-stories/jornal-do-carro/estradao/os-10-caminhoes-pesados-mais-vendidos-no-primeiro-semestre/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-10-05T22:23:22.353510"
+  },
+  {
     "id": "6b23ae4a16bd962d07615ceece959b01",
     "titulo": "Chinesa Zhongtong vende primeiro lote de ônibus no Brasil",
     "link": "https://www.autodata.com.br/noticias/2026/10/05/chinesa-zhongtong-vende-primeiro-lote-de-onibus-no-brasil/136933/",
