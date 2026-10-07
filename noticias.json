@@ -1,5 +1,19 @@
 [
   {
+    "id": "d1b4e1a4517234d05cdf0de42a106d57",
+    "titulo": "Venda de implementos rodoviários cai 1,5%, reduzindo ritmo da queda",
+    "link": "https://www.autodata.com.br/noticias/2026/10/06/vendas-de-implementos-rodoviarios-cai-15-reduzindo-ritmo-da-queda/137058/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-10-07T14:40:06.195836"
+  },
+  {
+    "id": "d7da882db9410c8411c299e5f06dafaf",
+    "titulo": "2.Gigante chinesa dos ônibus elétricos quer 15% do mercado brasileiro",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/gigante-chinesa-dos-onibus-eletricos-quer-15-do-mercado-brasileiro/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-10-07T14:40:07.229963"
+  },
+  {
     "id": "92139d8f167b4da25bd1e52b1e3886d1",
     "titulo": "Vendas: Mercedes-Benz liderou entre caminhões em setembro",
     "link": "https://automotivebusiness.com.br/mercado/vendas-mercedes-benz-liderou-entre-caminhoes-em-setembro",
