@@ -1,5 +1,33 @@
 [
   {
+    "id": "e14217fb53f745ec2f926fec5283a1bd",
+    "titulo": "Produção de veículos cresce 8% até setembro, com recuo em caminhões e ônibus",
+    "link": "https://automotivebusiness.com.br/balanco/producao-de-veiculos-cresce-8-ate-setembro-com-recuo-em-caminhoes-e-onibus",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-10-08T00:22:09.551287"
+  },
+  {
+    "id": "06281283ec3fd1035653e4c5cc4b2130",
+    "titulo": "anfaveaProdução de veículos cresce 8% até setembro, com recuo em caminhões e ônibus",
+    "link": "https://automotivebusiness.com.br/noticias/producao-de-veiculos-cresce-8-ate-setembro-com-recuo-em-caminhoes-e-onibus",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-10-08T00:22:09.551311"
+  },
+  {
+    "id": "80641f7c9f332fd3da5dca1c331264a8",
+    "titulo": "Produção de caminhões recua 6,4% em nove meses",
+    "link": "https://www.autodata.com.br/noticias/2026/10/07/producao-de-caminhoes-recua-64-em-nove-meses/137230/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-10-08T00:22:11.359227"
+  },
+  {
+    "id": "b85b881479b784a9cdd9afb267e40ebc",
+    "titulo": "Francovig adquire seis micro-ônibus Volare para atuar na Região Metropolitana de Curitiba",
+    "link": "https://frotanews.com.br/francovig-adquire-seis-micro-onibus-volare/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-10-08T00:22:12.030464"
+  },
+  {
     "id": "39689ec4b037908468f21aa06f26bd11",
     "titulo": "3.Gigante chinesa dos ônibus elétricos quer 15% do mercado brasileiro",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/gigante-chinesa-dos-onibus-eletricos-quer-15-do-mercado-brasileiro/",
