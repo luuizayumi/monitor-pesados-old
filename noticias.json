@@ -1,5 +1,19 @@
 [
   {
+    "id": "3cea67ad92158f68fd1b17405112359c",
+    "titulo": "Alex Nucci é o novo diretor de vendas de caminhões da Mercedes-Benz",
+    "link": "https://www.autodata.com.br/noticias/2026/10/13/alex-nucci-e-o-novo-diretor-de-vendas-de-caminhoes-da-mercedes-benz/137428/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-10-13T21:26:22.385772"
+  },
+  {
+    "id": "0410b61cd7ad18a0a1b70bf42b363e91",
+    "titulo": "DAF confirma presença na Fenatran 2026 com sete caminhões e três lançamentos",
+    "link": "https://frotanews.com.br/fenatran-daf-lancamentos/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-10-13T21:26:22.900869"
+  },
+  {
     "id": "1dfe514c146f7e02294dec53c319a8e3",
     "titulo": "E-commerce do Atacadão em colapso com excesso de falhas de logística e mais de 6.300 reclamações de clientes",
     "link": "https://frotanews.com.br/atacadao-e-commerce-reclamacoes-cancelamento-pedidos/",
