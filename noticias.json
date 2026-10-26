@@ -1,5 +1,40 @@
 [
   {
+    "id": "cac8ec7a5c04a394dde1f0e66ec7cc9a",
+    "titulo": "Michelin lança globalmente pneu para caminhões de mineração com testes feitos no Brasil",
+    "link": "https://www.autodata.com.br/mobility/2026/10/26/michelin-lanca-globalmente-pneu-para-caminhoes-de-mineracao-com-testes-feitos-no-brasil/138083/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-10-26T14:58:23.129494"
+  },
+  {
+    "id": "a29ceb839caaa90394597fa052e1db79",
+    "titulo": "Frota Summit 2026 chega à segunda edição com programação construída a partir dos problemas reais da operação",
+    "link": "https://frotanews.com.br/agenda-frota-summit-2026/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-10-26T14:58:23.867852"
+  },
+  {
+    "id": "6cd1adda918f3709742339afda807ee9",
+    "titulo": "DAF XDC 8&#215;4 é eleito Caminhão de Construção do Ano 2027",
+    "link": "https://frotanews.com.br/caminhoes-daf/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-10-26T14:58:23.867865"
+  },
+  {
+    "id": "4c51704250da9e1b7a65f21920448705",
+    "titulo": "Sono ao volante? Conheça sistema da Volvo que freia caminhão sozinhoTecnologia estreia na Fenatran 2026 e promete evitar acidentes ao detectar sinais de sonolência; dados da PRF mostram 818 acidentes com caminhões causados por condutor dormindo em 2025",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/sono-ao-volante-conheca-sistema-da-volvo-que-freia-caminhao-sozinho/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-10-26T14:58:24.679819"
+  },
+  {
+    "id": "c3cbe318c53b05b4e5b1cc45f66fdb4d",
+    "titulo": "Ônibus no 2º turno: o que a Justiça Eleitoral exige do transporte",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/onibus-no-2-turno-o-que-a-justica-eleitoral-exige-do-transporte/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-10-26T14:58:24.679833"
+  },
+  {
     "id": "4a2ec1797f10aeb55c11ea80fc41d35b",
     "titulo": "3.Ônibus no 2º turno: o que a Justiça Eleitoral exige do transporte",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/onibus-no-2-turno-o-que-a-justica-eleitoral-exige-do-transporte/",
