@@ -1,5 +1,26 @@
 [
   {
+    "id": "d347efac81e98edb177bddd21a1837fd",
+    "titulo": "Vendas de ônibus puxa mercado europeu de veículos comerciais",
+    "link": "https://www.autodata.com.br/noticias/2026/10/28/vendas-de-onibus-puxa-mercado-europeu-de-veiculos-comerciais/138717/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-10-28T19:00:09.942435"
+  },
+  {
+    "id": "62faaf41d0dc66b316f66a504778ef84",
+    "titulo": "Segurança influencia decisões de embarcadores e ganha peso na competitividade das transportadoras",
+    "link": "https://frotanews.com.br/seguranca-influencia-contratacao-de-transportadoras/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-10-28T19:00:10.550881"
+  },
+  {
+    "id": "e45313028f21f02cdf0fa184c1d58c0f",
+    "titulo": "Caminhoneiro receberá pensão pelo resto da vida após acidente na BR-116",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhoneiro-recebera-pensao-pelo-resto-da-vida-apos-acidente-na-br-116/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-10-28T19:00:11.351207"
+  },
+  {
     "id": "cb78690e558dc8f45bfcd50ee2750228",
     "titulo": "CBTour amplia frota com 33 novos Iveco Daily Minibus",
     "link": "https://frotanews.com.br/fretamento-iveco-cbtour/",
