@@ -1,5 +1,75 @@
 [
   {
+    "id": "37d6c3324f8668eca8c31e88b3630ce7",
+    "titulo": "DAF estuda caminhão mais leve no próximo ciclo de investimento",
+    "link": "https://automotivebusiness.com.br/montadoras/daf-estuda-caminhao-mais-leve-na-proximo-ciclo-de-investimento",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-09T18:31:16.424987"
+  },
+  {
+    "id": "ec728c13f962ccf446214f3cb13b459a",
+    "titulo": "Quase centenária, Volvo atualiza caminhões FH e VM",
+    "link": "https://automotivebusiness.com.br/montadoras/grupo-volvo-celebra-100-anos-na-fenatran-com-lancamentos-e-serie-especial-do-fh",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-09T18:31:16.425006"
+  },
+  {
+    "id": "f3460f55b035ee83f35167ce271dafaa",
+    "titulo": "fenatran 2026DAF estuda caminhão mais leve no próximo ciclo de investimento09/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/daf-estuda-caminhao-mais-leve-na-proximo-ciclo-de-investimento",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-09T18:31:16.425013"
+  },
+  {
+    "id": "125206ab4122cc3cf650f5b8b00a30e4",
+    "titulo": "fenatran 2026DAF estuda caminhão mais leve no próximo ciclo de investimento09 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/daf-estuda-caminhao-mais-leve-na-proximo-ciclo-de-investimento",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-09T18:31:16.425017"
+  },
+  {
+    "id": "c2499d252786f4b876bd4fa4a1ae35b9",
+    "titulo": "fenatran 2026Quase centenária, Volvo atualiza caminhões FH e VM09 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/grupo-volvo-celebra-100-anos-na-fenatran-com-lancamentos-e-serie-especial-do-fh",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-09T18:31:16.425020"
+  },
+  {
+    "id": "ecdc2729a19e5a3e0c20614d4fa23ada",
+    "titulo": "VW Caminhões e Ônibus inicia as vendas do Tempest na Fenatran",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/vw-caminhoes-e-onibus-inicia-as-vendas-do-tempest-na-fenatran/139630/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-09T18:31:18.268491"
+  },
+  {
+    "id": "f12ab90044879e67296023f060ac6aca",
+    "titulo": "DAF mira 15% de participação no mercado de extrapesados em até cinco anos",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/daf-mira-15-de-participacao-no-mercado-de-extrapesados-em-ate-cinco-anos/139626/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-09T18:31:18.268509"
+  },
+  {
+    "id": "6339930960073e40a527c8b1099a29d3",
+    "titulo": "FPT faz parceria com a WEG para desenvolver sistema híbrido para caminhões",
+    "link": "https://www.autodata.com.br/noticias/2026/11/09/fpt-faz-parceria-com-a-weg-para-desenvolver-sistema-hibrido-para-caminhoes/139609/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-09T18:31:18.268513"
+  },
+  {
+    "id": "ccac4f93a0a6204d20c3377335065b14",
+    "titulo": "Mercedes-Benz elétrico eActros chega ao Brasil por R$ 2,5 milhões Modelo extrapesado já rodou 200 mil km em testes no Brasil e tem quatro unidades vendidas",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/mercedes-benz-eletrico-eactros-chega-ao-brasil-por-r-25-milhoes/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-11-09T18:31:20.711155"
+  },
+  {
+    "id": "1c727009713a5921b2168463ca413299",
+    "titulo": "Seis marcas de caminhão que deram adeus ao Brasil — e a que prepara o retorno",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/seis-marcas-de-caminhao-que-deram-adeus-ao-brasil-e-a-que-prepara-o-retorno/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-11-09T18:31:20.711172"
+  },
+  {
     "id": "91aa2a42e38d3d570e4765026d6908e1",
     "titulo": "Entrevista: Ultragaz projeta expansão de postos de biometano em rodovias para a frota pesada",
     "link": "https://frotanews.com.br/ultragaz-expande-postos-biometano-em-rodovias/",
