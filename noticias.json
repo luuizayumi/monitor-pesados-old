@@ -1,5 +1,33 @@
 [
   {
+    "id": "fe4581c6a9f448ceb829e216824f042b",
+    "titulo": "Bosch e Suspensys nacionalizam eixos elétricos para caminhões e ônibus",
+    "link": "https://www.autodata.com.br/noticias/2026/11/10/bosch-e-suspensys-nacionalizam-eixos-eletricos-para-caminhoes-e-onibus/139748/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-10T17:14:48.077955"
+  },
+  {
+    "id": "f6e36710ce832d010280ef99682135d1",
+    "titulo": "XCMG abre pré-venda do caminhão com autonomia de 460 km e anuncia montagem local",
+    "link": "https://www.autodata.com.br/mobility/2026/11/10/xcmg-abre-pre-venda-do-caminhao-com-autonomia-de-460-km-e-anuncia-montagem-local/139741/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-10T17:14:48.077984"
+  },
+  {
+    "id": "7a34b9677e59123f8d16531a9e130ee5",
+    "titulo": "Foton anuncia novos caminhões e apresenta conceito elétrico na Fenatran 2026",
+    "link": "https://frotanews.com.br/foton-estreia-fenatran-2026-galaxus-wonder-emiler/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-11-10T17:14:48.581453"
+  },
+  {
+    "id": "8423f6465cb60c2cc3f12c4651a3ad44",
+    "titulo": "Scania amplia linha de caminhões elétricos com 30 P 6&#215;2 e 6x",
+    "link": "https://frotanews.com.br/scania-lanca-scania-30-p-eletrico/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-11-10T17:14:48.581468"
+  },
+  {
     "id": "ba6b8fedbb9acbeec310a2da078192c3",
     "titulo": "Governo prepara até R$ 14,5 bilhões para financiar caminhões",
     "link": "https://automotivebusiness.com.br/industria/governo-prepara-ate-r-145-bilhoes-para-financiar-caminhoes",
