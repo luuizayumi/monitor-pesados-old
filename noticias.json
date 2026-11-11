@@ -1,5 +1,26 @@
 [
   {
+    "id": "b2c4800c35bead7d655811c23ebb6c17",
+    "titulo": "FrotaCast entrevista Rúbia Arias, especialista do Senac na profissional na logística",
+    "link": "https://frotanews.com.br/entrevista-rubia-arias-logistica-gestao-tecnologia/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-11-11T17:46:13.598588"
+  },
+  {
+    "id": "0f770662e7ff61ff7dd1c626b70be5f0",
+    "titulo": "Fenatran 2026 bate recorde coloca caminhões chineses frente a frente com Volvo, Scania e MercedesFeira reúne mais de 700 marcas e mostra disputa entre caminhões elétricos, a gás e a diesel, com novidades de Volvo, Scania, Mercedes-Benz, Volkswagen, BYD, Foton e Sinotruk",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/fenatran-2026-bate-recorde-coloca-caminhoes-chineses-frente-a-frente-com-volvo-scania-e-mercedes/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-11-11T17:46:15.242297"
+  },
+  {
+    "id": "bfa25c90d22a8bf947c1857d2f43597c",
+    "titulo": "ZF apresenta soluções integradas para veículos pesados na Fenatran 2026",
+    "link": "https://www.balcaoautomotivo.com/2026/11/11/zf-apresenta-solucoes-integradas-para-veiculos-pesados-na-fenatran-2026/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-11-11T17:46:17.886304"
+  },
+  {
     "id": "f8e8a06706927f1a80a4966f54596699",
     "titulo": "PACCAR Parts apresenta estrutura de distribuição e linha multimarcas na Fenatran 2026",
     "link": "https://frotanews.com.br/paccar-parts-destaca-centro-distribuicao-fenatran/",
