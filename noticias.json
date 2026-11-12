@@ -1,5 +1,40 @@
 [
   {
+    "id": "b3c0ebeb1910e1d1e7d8929923f1f2fb",
+    "titulo": "Pesados: governo sanciona lei para renovação de frota de caminhões",
+    "link": "https://automotivebusiness.com.br/legislacao/pesados-governo-sanciona-lei-para-renovacao-de-frota-de-caminhoes",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-12T16:40:21.349139"
+  },
+  {
+    "id": "2ab8b97fade9048eebeb2bd3f9f156e5",
+    "titulo": "financiamentoPesados: governo sanciona lei para renovação de frota de caminhões",
+    "link": "https://automotivebusiness.com.br/noticias/pesados-governo-sanciona-lei-para-renovacao-de-frota-de-caminhoes",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-12T16:40:21.349150"
+  },
+  {
+    "id": "32867ecda4d16f1d45e55903242c3dc7",
+    "titulo": "Saiba mais sobre o BYD M025, primeiro cavalo mecânico elétrico da marca, com 761 cv",
+    "link": "https://www.autodata.com.br/mobility/2026/11/12/o-que-entrega-o-byd-m025-primeiro-cavalo-mecanico-eletrico-da-marca-com-761-cv/140053/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-12T16:40:22.707079"
+  },
+  {
+    "id": "aa3eac16508fba22ad4cffc6befe9497",
+    "titulo": "e-Dutra anuncia instalação de três pontos de recarga para caminhões elétricos na Via Dutra",
+    "link": "https://www.autodata.com.br/mobility/2026/11/12/e-dutra-anuncia-instalacao-de-tres-pontos-de-recarga-para-caminhoes-eletricos-na-via-dutra/139865/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-12T16:40:22.707101"
+  },
+  {
+    "id": "da3411c5b27daf37d1ab1f7d047df85e",
+    "titulo": "1.Atraso nas entregas: Geely EX2 acumula queixas online e lojas pedem até 120 dias para entregar",
+    "link": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/atraso-nas-entregas-geely-ex2-acumula-queixas-online-e-lojas-pedem-ate-120-dias-para-entregar/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-11-12T16:40:23.400999"
+  },
+  {
     "id": "c49943e42829208249ee656cac9c934b",
     "titulo": "4.Caminhão Mercedes-Benz LS 1938 ganha versão 2025 feita por IA",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/caminhao-mercedes-benz-ls-1938-ganha-versao-2025-feita-por-ia/",
