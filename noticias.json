@@ -1,5 +1,40 @@
 [
   {
+    "id": "30cdabcfb857e2e5621a4775ea711e9a",
+    "titulo": "Foton prepara grande salto no Brasil com o caminhão extrapesado Galaxus R9",
+    "link": "https://www.autodata.com.br/mobility/2026/11/23/foton-prepara-grande-salto-no-brasil-com-o-caminhao-extrapesado-galaxus-r9/140688/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-24T00:13:03.470413"
+  },
+  {
+    "id": "aef90b52ccc06d2958d6f19080ed819f",
+    "titulo": "BYD amplia o alcance da eletrificação no transporte de cargas",
+    "link": "https://www.autodata.com.br/workstudio-autodata/2026/11/23/byd-amplia-o-alcance-da-eletrificacao-no-transporte-de-cargas/140815/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-24T00:13:03.470445"
+  },
+  {
+    "id": "4532b671b4ccc77ad96af4ac7aae1076",
+    "titulo": "Frota Summit 2026 lota Espaço Center 3 e consolida encontro da gestão de frotas no Brasil",
+    "link": "https://frotanews.com.br/frota-summit-2026-consolida-encontro-de-gestao-de-frotas/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-11-24T00:13:03.777995"
+  },
+  {
+    "id": "3253433c2eccc34bcb877cc9d6eb7480",
+    "titulo": "Minas Gerais concentra 12,4% das consultas por destino de cargas no país",
+    "link": "https://frotanews.com.br/minas-gerais-destino-cargas-brasil/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-11-24T00:13:03.778005"
+  },
+  {
+    "id": "3e86cab042e3906e4898f27134e243a4",
+    "titulo": "IQA e ANFIR certificam 12 fabricantes de implementos rodoviários",
+    "link": "https://www.balcaoautomotivo.com/2026/11/23/iqa-e-anfir-certificam-12-fabricantes-de-implementos-rodoviarios/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-11-24T00:13:06.080938"
+  },
+  {
     "id": "fd78f74705c2ee28e960b821c1958626",
     "titulo": "Lula sanciona lei que pereniza o Move Brasil com R$ 14,5 bi, mas recursos ficam fora do orçamentoLei sancionada em novembro transforma em política permanente o crédito para renovar caminhões, ônibus e implementos, mas não reserva dinheiro no Orçamento; montadoras e bancos não contam com os recursos",
     "link": "https://www.estadao.com.br/jornal-do-carro/estradao/lula-sanciona-lei-que-pereniza-o-move-brasil-com-r-145-bi-mas-recursos-ficam-fora-do-orcamento/",
