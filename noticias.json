@@ -1,5 +1,33 @@
 [
   {
+    "id": "7a05f7248360af4ade27598ef46e3dd7",
+    "titulo": "Hiace no #ABX26: a van que a Toyota quer colocar na rotina das frotas",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/hiace-no-abx26-a-van-que-a-toyota-quer-colocar-na-rotina-das-frotas",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-25T23:13:24.129512"
+  },
+  {
+    "id": "1dfe0146f0029382f207d796341e4f16",
+    "titulo": "veículos comerciaisHiace no #ABX26: a van que a Toyota quer colocar na rotina das frotas25 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/hiace-no-abx26-a-van-que-a-toyota-quer-colocar-na-rotina-das-frotas",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-25T23:13:24.129528"
+  },
+  {
+    "id": "af4b1feb0dfe187edf0beaf30b3aa95f",
+    "titulo": "Conteúdo de marcaHiace no #ABX26: a van que a Toyota quer colocar na rotina das frotasMontadora apresentou o modelo a gestores de frotas e operadores de transporte com foco em custo o...",
+    "link": "https://automotivebusiness.com.br/conteudo-de-marca/hiace-no-abx26-a-van-que-a-toyota-quer-colocar-na-rotina-das-frotas",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-25T23:13:24.129534"
+  },
+  {
+    "id": "cbadcc6644ddccb941134897f720e2fa",
+    "titulo": "VW Caminhões e Ônibus inaugura centro de inspeção da linha Tempest em Resende",
+    "link": "https://www.autodata.com.br/noticias/2026/11/25/vw-caminhoes-e-onibus-inaugura-centro-de-inspecao-da-linha-tempest-em-resende/141119/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-25T23:13:26.053141"
+  },
+  {
     "id": "49bef414762670012c7a32a026da2a06",
     "titulo": "Faça sua inscrição gratuita para o Seminário para Educação Logística | Descarbonização",
     "link": "https://frotanews.com.br/frotanews-com-br-selfn-2026-seminario/",
@@ -6970,33 +6998,5 @@
     "link": "https://frotanews.com.br/frota-de-construcao-betoneiras/",
     "fonte": "Frota News",
     "data_coleta": "2026-05-25T11:52:07.459661"
-  },
-  {
-    "id": "0d38002e8392c3d4977de1844521008a",
-    "titulo": "Cedro testa caminhão 100% elétrico na mineração para a descarbonização da frota",
-    "link": "https://frotanews.com.br/caminhao-mineracao-teste-cedro/",
-    "fonte": "Frota News",
-    "data_coleta": "2026-05-25T11:52:07.459664"
-  },
-  {
-    "id": "c39550f4497b37357ca717bd78acb7a0",
-    "titulo": "Como funcionam balanças de caminhão nas rodovias e o que pode gerar multaPesagem fiscaliza excesso de carga, verifica peso por eixo e avança para modelos automáticos capazes de pesar caminhões em movimento",
-    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/como-funcionam-balancas-de-caminhao-nas-rodovias-e-o-que-pode-gerar-multa/",
-    "fonte": "Estradão - Jornal do Carro",
-    "data_coleta": "2026-05-25T11:52:08.907942"
-  },
-  {
-    "id": "a41bacce56fceeb86678250b8d1b6885",
-    "titulo": "Produção de caminhões cai 17,2% no quadrimestre mesmo após incentivo do Move Brasil",
-    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/producao-de-caminhoes-cai-172-no-quadrimestre-mesmo-apos-incentivo-do-move-brasil/",
-    "fonte": "Estradão - Jornal do Carro",
-    "data_coleta": "2026-05-25T11:52:08.907960"
-  },
-  {
-    "id": "aa3f6efa26ee3c64922ea6715a2a3849",
-    "titulo": "Ônibus podem ser isentos de pedágio e tarifas reduzidas",
-    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/onibus-podem-ser-isentos-de-pedagio-e-tarifas-reduzidas/",
-    "fonte": "Estradão - Jornal do Carro",
-    "data_coleta": "2026-05-25T11:52:08.907964"
   }
 ]
