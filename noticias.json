@@ -1,5 +1,12 @@
 [
   {
+    "id": "f4d33f6dec98dff3ae3f62baff61d1c9",
+    "titulo": "Juros altos e caminhões caros fazem aluguel de veículos pesados crescer no BrasilEmpresas de aluguel adotam táticas já usadas no mercado de automóveis para crescer",
+    "link": "https://www.estadao.com.br/jornal-do-carro/estradao/aluguel-de-caminhoes-e-maquinas-se-torna-um-grande-negocio-mesmo-na-crise/",
+    "fonte": "Estradão - Jornal do Carro",
+    "data_coleta": "2026-11-26T15:37:50.315403"
+  },
+  {
     "id": "7a05f7248360af4ade27598ef46e3dd7",
     "titulo": "Hiace no #ABX26: a van que a Toyota quer colocar na rotina das frotas",
     "link": "https://automotivebusiness.com.br/conteudo-de-marca/hiace-no-abx26-a-van-que-a-toyota-quer-colocar-na-rotina-das-frotas",
@@ -6991,12 +6998,5 @@
     "link": "https://frotanews.com.br/frota-sustentavel-frotas-2026/",
     "fonte": "Frota News",
     "data_coleta": "2026-05-25T11:52:07.459655"
-  },
-  {
-    "id": "c94ee4abe679d92e561890f4a4efcd24",
-    "titulo": "Frota de Construção: Case dinamarquês mostra como eletrificar transporte de concreto é possível",
-    "link": "https://frotanews.com.br/frota-de-construcao-betoneiras/",
-    "fonte": "Frota News",
-    "data_coleta": "2026-05-25T11:52:07.459661"
   }
 ]
