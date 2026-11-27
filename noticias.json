@@ -1,5 +1,33 @@
 [
   {
+    "id": "efba02bf3f46e477393e73e982b9f1a2",
+    "titulo": "Suspensys aposta em eixo elétrico para ampliar autonomia e reduzir consumo de caminhões",
+    "link": "https://www.autodata.com.br/mobility/2026/11/27/suspensys-aposta-em-eixo-eletrico-para-ampliar-autonomia-e-reduzir-consumo-de-caminhoes/140876/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-27T18:49:08.415234"
+  },
+  {
+    "id": "9d950fb72124ec929d8bc6a8f1bef3c9",
+    "titulo": "Piauí, Sergipe e Goiás se unem a programa internacional para aumentar frotas de veículos eletrificados",
+    "link": "https://www.autodata.com.br/mobility/2026/11/27/piaui-sergipe-e-goias-se-unem-a-programa-internacional-para-aumentar-frotas-de-veiculos-eletrificados/141341/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-27T18:49:08.415247"
+  },
+  {
+    "id": "3e71afc597cbb9e0d3b365f690f7e0e9",
+    "titulo": "Como a manutenção interfere diretamente na produtividade da frota",
+    "link": "https://frotanews.com.br/produtividade-da-frota-esta-diretamente/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-11-27T18:49:08.811400"
+  },
+  {
+    "id": "4ecfcccdd09d1b01234667cf020b754d",
+    "titulo": "Fras-le lidera categoria de peças para pesados em prêmio do transporte",
+    "link": "https://www.balcaoautomotivo.com/2026/11/27/fras-le-lidera-categoria-de-pecas-para-pesados-em-premio-do-transporte/",
+    "fonte": "Balcão Automotivo",
+    "data_coleta": "2026-11-27T18:49:12.226876"
+  },
+  {
     "id": "2c5dbbfa3d6655a67e47004580cf05eb",
     "titulo": "Autoneum e Volkswagen Caminhões: parceria que se constrói por dentro.",
     "link": "https://www.autodata.com.br/workstudio-autodata/2026/11/26/autoneum-e-volkswagen-caminhoes-parceria-que-se-constroi-por-dentro/141394/",
@@ -6970,33 +6998,5 @@
     "link": "https://www.autodata.com.br/workstudio-autodata/2026/01/26/eletra-reafirma-lideranca-tecnologica-nos-onibus-eletricos/99048/",
     "fonte": "AutoData",
     "data_coleta": "2026-05-25T11:52:05.422896"
-  },
-  {
-    "id": "13413e792231f3ced1c2b342e393001c",
-    "titulo": "Implementos rodoviários",
-    "link": "https://frotanews.com.br/Categoria/veiculos/implementos-rodoviarios/",
-    "fonte": "Frota News",
-    "data_coleta": "2026-05-25T11:52:07.459617"
-  },
-  {
-    "id": "f84853bbe3a21b116e993ff2ee7eb37f",
-    "titulo": "Da bagunça analógica à precisão digital: a autotech que pode ser aliada na gestão de frotas",
-    "link": "https://frotanews.com.br/entrevista-autotech-iago-atila/",
-    "fonte": "Frota News",
-    "data_coleta": "2026-05-25T11:52:07.459641"
-  },
-  {
-    "id": "fb3521a5a29f44ec1490d38fcba17982",
-    "titulo": "Indústria chinesa de caminhões acelera avanço na América Latina com foco em produção local até 2030",
-    "link": "https://frotanews.com.br/industria-chinesa-america-latina/",
-    "fonte": "Frota News",
-    "data_coleta": "2026-05-25T11:52:07.459644"
-  },
-  {
-    "id": "18d404d33ec3ec981ae6a44a3588a1a2",
-    "titulo": "Ter uma usina de energia solar na empresa já é realidade para muitas transportadoras",
-    "link": "https://frotanews.com.br/usina-de-energia-solar-na-transportadora/",
-    "fonte": "Frota News",
-    "data_coleta": "2026-05-25T11:52:07.459647"
   }
 ]
