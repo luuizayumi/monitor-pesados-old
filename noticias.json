@@ -1,5 +1,40 @@
 [
   {
+    "id": "bb171d464d02a2ad596f2214543f51d6",
+    "titulo": "Locação de caminhões ganha espaço em mercado em retração",
+    "link": "https://automotivebusiness.com.br/mercado/locacao-de-caminhoes-ganha-espaco-em-mercado-em-retracao",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-28T01:48:44.043424"
+  },
+  {
+    "id": "dc2a9e7a28d5e8f726cbd6f2d03c3b1f",
+    "titulo": "caminhõesLocação de caminhões ganha espaço em mercado em retração27/11/2026",
+    "link": "https://automotivebusiness.com.br/noticias/locacao-de-caminhoes-ganha-espaco-em-mercado-em-retracao",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-28T01:48:44.043441"
+  },
+  {
+    "id": "d7e7623a973f7f26a27bb198683f5fb6",
+    "titulo": "caminhõesLocação de caminhões ganha espaço em mercado em retração27 nov 2026",
+    "link": "https://automotivebusiness.com.br/noticias/locacao-de-caminhoes-ganha-espaco-em-mercado-em-retracao",
+    "fonte": "Automotive Business",
+    "data_coleta": "2026-11-28T01:48:44.043444"
+  },
+  {
+    "id": "293fde0e727556b9ea55e77ca5233547",
+    "titulo": "Adesão a consórcios de veículos sobe 5% até outubro, apesar de recuo de pesados",
+    "link": "https://www.autodata.com.br/noticias/2026/11/27/adesao-a-consorcios-de-veiculos-sobe-5-ate-outubro-apesar-de-recuo-de-pesados/141495/",
+    "fonte": "AutoData",
+    "data_coleta": "2026-11-28T01:48:45.829417"
+  },
+  {
+    "id": "13413e792231f3ced1c2b342e393001c",
+    "titulo": "Implementos rodoviários",
+    "link": "https://frotanews.com.br/Categoria/veiculos/implementos-rodoviarios/",
+    "fonte": "Frota News",
+    "data_coleta": "2026-11-28T01:48:46.423840"
+  },
+  {
     "id": "efba02bf3f46e477393e73e982b9f1a2",
     "titulo": "Suspensys aposta em eixo elétrico para ampliar autonomia e reduzir consumo de caminhões",
     "link": "https://www.autodata.com.br/mobility/2026/11/27/suspensys-aposta-em-eixo-eletrico-para-ampliar-autonomia-e-reduzir-consumo-de-caminhoes/140876/",
@@ -6963,40 +6998,5 @@
     "link": "https://www.balcaoautomotivo.com/2026/05/20/o-maior-cuida-do-menor-como-veiculos-pesados-influenciam-a-seguranca-viaria/",
     "fonte": "Balcão Automotivo",
     "data_coleta": "2026-05-25T14:21:22.114174"
-  },
-  {
-    "id": "762e6563250d410efd34fc9d701e1876",
-    "titulo": "BNDES vai à China e à Alemanha para atrair novas fábricas de ônibus elétricos para o Brasil",
-    "link": "https://abve.org.br/bndes-vai-para-a-china-e-alemanha-para-atrair-novas-fabricas-de-onibus-eletricos-para-o-brasil/",
-    "fonte": "ABVE",
-    "data_coleta": "2026-05-25T11:52:03.406583"
-  },
-  {
-    "id": "85cda289eb5235612f868ca5efb60b89",
-    "titulo": "Caminhões Volvo passam a ter controle automático de velocidade em áreas restritas",
-    "link": "https://www.autodata.com.br/news/2026/05/13/caminhoes-volvo-passam-a-ter-controle-automatico-de-velocidade-em-areas-restritas/103447/",
-    "fonte": "AutoData",
-    "data_coleta": "2026-05-25T11:52:05.422866"
-  },
-  {
-    "id": "d9e50d48ff2bdae391166157cf920404",
-    "titulo": "Volvo estreia no Pró-Transporte com venda de ônibus metropolitanos",
-    "link": "https://www.autodata.com.br/news/2026/05/07/volvo-estreia-no-pro-transporte-com-venda-de-onibus-metropolitanos/103184/",
-    "fonte": "AutoData",
-    "data_coleta": "2026-05-25T11:52:05.422882"
-  },
-  {
-    "id": "22e6d6d4a85836a01e287ebae267e6e6",
-    "titulo": "MDIC ressalta importância do autônomo na renovação de frota, que deverá ser perene",
-    "link": "https://www.autodata.com.br/noticias/2026/05/20/mdic-ressalta-importancia-do-autonomo-na-renovacao-de-frota-que-devera-ser-perene/103796/",
-    "fonte": "AutoData",
-    "data_coleta": "2026-05-25T11:52:05.422893"
-  },
-  {
-    "id": "7aaab1bb146bf2dfa6e6fe42d430bf00",
-    "titulo": "Eletra reafirma liderança tecnológica nos ônibus elétricos",
-    "link": "https://www.autodata.com.br/workstudio-autodata/2026/01/26/eletra-reafirma-lideranca-tecnologica-nos-onibus-eletricos/99048/",
-    "fonte": "AutoData",
-    "data_coleta": "2026-05-25T11:52:05.422896"
   }
 ]
